@@ -312,7 +312,7 @@
     
     /*================banner_part satrt=====================*/
     #banner_part{
-        width: 576px;
+/*        width: 576px;*/
     }
     #banner_part .overlay{
        padding-top: 0;
@@ -321,7 +321,7 @@
     #banner_part h1{
          margin-left: 0;
         font-size: 50px;
-        width: 576px;
+/*        width: 576px;*/
     }
     #banner_part img{
         margin-left: 170px;
@@ -342,10 +342,10 @@
       /*================just_part satrt=====================*/
     
     #just_part{
-         width: 576px;
+/*         width: 576px;*/
     }
     #just_part .item{
-         width: 576px;
+/*         width: 576px;*/
     }
     #just_part .item h2{
         margin-left: -15px;
@@ -368,10 +368,10 @@
     
     /*================#fine_part start=====================*/
     #fine_part{
-        width: 576px;
+/*        width: 576px;*/
     }
     #fine_part .item{
-        width: 576px;
+/*        width: 576px;*/
     }
     #fine_part .item img{
          width: 150px;
@@ -404,7 +404,7 @@
         padding: 50px 0;
     }
     #appetis_part .appetisers{
-        width: 576px;
+/*        width: 576px;*/
         margin-left: -18px;
     }
     #appetis_part .appetisers .head{
@@ -525,7 +525,9 @@
     
     
     /*================footer_part start==================*/
-    
+    #footer_part{
+/*        width: 576px;*/
+    }
     #footer_part .item{
         width: 320px;
         margin-left: 95px;
@@ -584,7 +586,7 @@
     
     /*================banner_part satrt=====================*/
     #banner_part{
-        width: 768px;
+/*        width: 768px;*/
     }
     #banner_part .overlay{
        padding-top: 0;
@@ -593,7 +595,7 @@
     #banner_part h1{
          margin-left: 0;
         font-size: 60px;
-        width: 768px;
+/*        width: 768px;*/
     }
     #banner_part img{
         margin-left: 260px;
