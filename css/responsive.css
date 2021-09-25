@@ -288,32 +288,7 @@
 }
     
 @media (min-width: 576px) and (max-width: 767px){
-    
-/*================menu_bar satrt=====================*/
-   
-    #menu_bar .menu_inner .logo{
-        width: 70px;
-     
-        margin-right: 10px;
-    }
-    #menu_bar .menu_inner .logo a{
-        font-size: 20px;
-    }
-    #menu_bar .menu_inner .details_head{
-        width: 210px;
-       
-    }
-    #menu_bar .menu_inner .details_head a{
-        padding: 0 5px;
-        
-         font-size: 16px;
-    }
-    /*================menu_bar end=====================*/
-    
     /*================banner_part satrt=====================*/
-    #banner_part{
-/*        width: 576px;*/
-    }
     #banner_part .overlay{
        padding-top: 0;
         padding-bottom: 50px;
@@ -327,9 +302,7 @@
         margin-left: 170px;
         height: 30px;
     }
-    #banner_part .book_see{
-        width: 576px;
-    }
+    
     #banner_part .book_see a{
         margin-top: 10px;
     }
@@ -340,13 +313,6 @@
      /*================banner_part end=====================*/
     
       /*================just_part satrt=====================*/
-    
-    #just_part{
-/*         width: 576px;*/
-    }
-    #just_part .item{
-/*         width: 576px;*/
-    }
     #just_part .item h2{
         margin-left: -15px;
         margin-top: 50px;
@@ -367,12 +333,6 @@
     
     
     /*================#fine_part start=====================*/
-    #fine_part{
-/*        width: 576px;*/
-    }
-    #fine_part .item{
-/*        width: 576px;*/
-    }
     #fine_part .item img{
          width: 150px;
     }
@@ -404,8 +364,8 @@
         padding: 50px 0;
     }
     #appetis_part .appetisers{
-/*        width: 576px;*/
-        margin-left: -18px;
+
+        margin-left: -24px;
     }
     #appetis_part .appetisers .head{
         margin-left: -40px;
@@ -420,7 +380,7 @@
         margin-left: -40px;
     }
     #appetis_part .appetisers .budge h2 span{
-        margin-left: 395px;
+        margin-left: 320px;
     }
     #appetis_part .appetisers .budge h2::after{
         width: 85%;
@@ -434,7 +394,7 @@
     }
     #appetis_part .appetisers .res_andro span::after{
        
-        width: 79%;
+        width: 78%;
     }
     #appetis_part .appetisers .budge span.res_andro{
         
@@ -443,36 +403,39 @@
         margin-left: 10px;
     }
     #appetis_part .appetisers .budge h2 span.long{
-        margin-left: 310px;
+        margin-left: 235px;
     }
     #appetis_part .appetisers.res_side{
         
-        margin-left: -60px;
+        margin-left: -15px;
     }
     #appetis_part .appetisers .budge h2 span{
-        margin-left: 380px;
+        margin-left: 275px;
     }
     #appetis_part .res_side .budge h2.side{
        
     }
     #appetis_part .appetisers .budge h2 span.long2{
-        margin-left: 340px;
+        margin-left: 240px;
     }
     #appetis_part .appetisers.upper{
         margin-top: 0;
-        margin-left: -60px;
+        margin-left: -15px;
     }
     #appetis_part .appetisers .budge h2 span.long3{
-        margin-left: 280px;
+        margin-left: 176px;
     }
     #appetis_part .appetisers .budge h2 span.long4{
-        margin-left: 325px;
+        margin-left: 220px;
     }
     #appetis_part .appetisers .budge h2 span.long5{
-        margin-left: 380px;
+        margin-left: 270px;
     }
-    #appetis_part .appetisers.salads{
-        margin-top: 0;
+    #appetis_part .appetisers.salads .side span.long2{
+        margin-left: 276px;
+    }
+    #appetis_part .appetisers .budge h2 span.tza{
+        margin-left: 310px;
     }
     
     /*================appetis_part end=====================*/
