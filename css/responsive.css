@@ -1,16 +1,17 @@
 @media (min-width: 320px) and (max-width: 575px){
     /*================banner_part satrt=====================*/
+    
     #banner_part .overlay{
        padding-top: 0;
         padding-bottom: 50px;
     }
     #banner_part h1{
          margin-left: 0;
-        font-size: 40px;
+        font-size: 28px;
         width: 400px;
     }
     #banner_part img{
-        margin-left: 60px;
+        margin-left: 85px;
         height: 30px;
     }
     #banner_part .book_see{
@@ -18,6 +19,7 @@
     }
     #banner_part .book_see a{
         margin-top: 10px;
+        margin-right: 0;
     }
     #banner_part .overlay .item{
         padding-top: 80px;
@@ -26,27 +28,33 @@
      /*================banner_part end=====================*/
     
       /*================just_part satrt=====================*/
+    #just_part .item{
+        width: 28%;
+    }
     #just_part .item h2{
         margin-left: 0;
         margin-top: 50px;
-        padding-right: 800px;
+        padding-right: 20px;
         font-size: 30px;
     }
     #just_part .item p{
         padding: 0;
-        margin-right: 20px;
-        padding-right: 795px;
+        margin-right: 0;
+        padding-right: 0;
         font-size: 14px;
     }
     #just_part .sig{
         margin-left: 20px;
     }
+    #just_part .plate{
+        width: 28%;
+    }
     #just_part .plate img{
-        width: 325px;
-        margin-top: -185px;
+        width: 320px;
+        margin-top: 10px;
     }
     #just_part .item .img_left{
-        margin-right: 825px;
+        margin-right: 20px;
     }
     /*================just_part end=====================*/
     
@@ -140,7 +148,7 @@
     /*===============guest_part start====================*/
     #guest_part .item{
         
-        width: 28%;
+        width: 34%;
     }
     #guest_part .item h2{
         margin-top: 40px;
@@ -169,16 +177,16 @@
       position: relative;
     }
     #right_part .item{
-        margin-left: -90px;
+        margin-left: -40px;
         width: 13%;
     }
     #right_part .res_right{
         width: 150px;
-        margin-left: -10px;
+        margin-left: 30px;
         margin-top: 330px;
     }
     #right_part .res_up{
-        margin-left: 150px;
+        margin-left: 195px;
         margin-top: -260px;
     }
     #right_part .item .text img{
@@ -188,7 +196,7 @@
     #right_part .item .text{
         position: absolute;
         top: -700px;
-        left: -85px;
+        left: -30px;
         opacity: 1;
         width: 30%;
     }
@@ -226,11 +234,11 @@
     /*================footer_part start==================*/
     
     #footer_part .item{
-        margin-left: -13px;
+        margin-left: 45px;
         width: 30%;
     }
     #footer_part .item.open{
-        margin-left: -24px;
+        margin-left: 50px;
         margin-top: 20px;
     }
     #footer_part .open p{
@@ -250,7 +258,7 @@
     }
     .my h2{
         font-size: 16px;
-        margin-left: 18px;
+        margin-left: 38px;
     }
      /*================footer_part end==================*/
 }
@@ -264,15 +272,16 @@
     #banner_part h1{
          margin-left: 0;
         font-size: 50px;
-/*        width: 576px;*/
+        width: 576px;
     }
     #banner_part img{
-        margin-left: 170px;
+        margin-left: 190px;
         height: 30px;
     }
     
     #banner_part .book_see a{
         margin-top: 10px;
+        margin-left: 80px;
     }
     #banner_part .overlay .item{
         padding-top: 80px;
@@ -333,7 +342,7 @@
     }
     #appetis_part .appetisers{
 
-        margin-left: -24px;
+        margin-left: 30px;
     }
     #appetis_part .appetisers .head{
         margin-left: -40px;
